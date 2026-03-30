@@ -14,7 +14,7 @@
 #### 下载地址：
 
 [点击下载](https://wwbts.lanzoue.com/iEWSe3lwppli)
-被拦截的师傅请看 Releases
-国内GitHub加速下载地址:
+##### 被拦截的师傅请看 Releases
+##### 国内GitHub加速下载地址: [点击下载](https://proxy.gitwarp.top/https://github.com/xyyanquan/CTF-/releases/download/CTF/default.zip)
 
 ##### <span style="color:orangered;font-weight:bold;">希望大家多多关注一下我呀，已经公益很多项目两年从未收费，为爱发电</span>
