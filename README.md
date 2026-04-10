@@ -2,7 +2,7 @@
 
 ## 响应云SRC
 
-#### CTF练习平台: ctf.yyanquan.cn
+#### CTF练习平台: ctf.xyyanquan.cn
 #### 交流群：MTc1NTY4ODA2 （base64解密一下）
 ### 已增加CTF工具箱 下载请看 Releases 持续更新中！！！！
 - <span style="color:orangered;font-weight:bold;">CTF常用脚本下载</span>
